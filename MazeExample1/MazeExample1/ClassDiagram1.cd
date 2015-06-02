@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MazeExample1.model.BoardSquare" Collapsed="true">
+    <Position X="6" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAIBAAAACQAAAAgAIAAAACAAAAAA=</HashCode>
+      <FileName>model\BoardSquare.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeExample1.model.Board" Collapsed="true">
+    <Position X="6.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAEAAAAAAAAAAABAAAAAAGQAACAAQCAgAAAAA=</HashCode>
+      <FileName>model\Board.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeExample1.MainWindow" Collapsed="true">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAEAAAAFAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
